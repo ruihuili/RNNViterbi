@@ -6,9 +6,9 @@ import commpy.channelcoding.interleavers as RandInterlv
 from commpy.utilities import *
 
 import math
-import matplotlib
+#import matplotlib
 #matplotlib.use('pdf')
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 import time
 import pickle
